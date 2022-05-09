@@ -40,19 +40,25 @@ header a {
 .portrait {
     width: 250px;
 }
-button{
-background-color: #888888;
-padding: 10px;
-border: 5px;
-border-radius: 10pc;
-cursor: pointer;
+button {
+    background-color: #888888;
+    padding: 10px;
+    border: 5px;
+    border-radius: 10pc;
+    cursor: pointer;
 
 }
+
 input {
     background-color: #8198f2;
     padding: 10px;
     border: 12px;
     border-radius: 10pc;
     cursor: pointer;
-    
     }
+#p3 {
+    background-color: #333333;
+    padding: 15px;
+    color: #eeeeee;
+    border-radius: 10pc;
+}
